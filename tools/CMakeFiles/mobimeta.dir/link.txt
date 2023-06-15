@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/mobimeta.dir/mobimeta.c.o CMakeFiles/common.dir/common.c.o CMakeFiles/zip.dir/__/src/miniz.c.o -o mobimeta  -Wl,-rpath,/home/jfsil/libmobi/src ../src/libmobi.so.0.11 /usr/lib/x86_64-linux-gnu/libxml2.so /usr/lib/x86_64-linux-gnu/libz.so 

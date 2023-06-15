@@ -1,0 +1,12 @@
+/home/jfsil/libmobi/CMakeFiles/edit_cache.dir
+/home/jfsil/libmobi/CMakeFiles/rebuild_cache.dir
+/home/jfsil/libmobi/src/CMakeFiles/mobi.dir
+/home/jfsil/libmobi/src/CMakeFiles/edit_cache.dir
+/home/jfsil/libmobi/src/CMakeFiles/rebuild_cache.dir
+/home/jfsil/libmobi/tools/CMakeFiles/common.dir
+/home/jfsil/libmobi/tools/CMakeFiles/mobitool.dir
+/home/jfsil/libmobi/tools/CMakeFiles/mobimeta.dir
+/home/jfsil/libmobi/tools/CMakeFiles/mobidrm.dir
+/home/jfsil/libmobi/tools/CMakeFiles/zip.dir
+/home/jfsil/libmobi/tools/CMakeFiles/edit_cache.dir
+/home/jfsil/libmobi/tools/CMakeFiles/rebuild_cache.dir

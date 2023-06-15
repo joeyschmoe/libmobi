@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/mobidrm.dir/mobidrm.c.o CMakeFiles/common.dir/common.c.o -o mobidrm  -Wl,-rpath,/home/jfsil/libmobi/src ../src/libmobi.so.0.11 /usr/lib/x86_64-linux-gnu/libxml2.so /usr/lib/x86_64-linux-gnu/libz.so 

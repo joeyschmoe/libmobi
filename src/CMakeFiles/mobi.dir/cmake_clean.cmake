@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/mobi.dir/buffer.c.o"
+  "CMakeFiles/mobi.dir/buffer.c.o.d"
+  "CMakeFiles/mobi.dir/compression.c.o"
+  "CMakeFiles/mobi.dir/compression.c.o.d"
+  "CMakeFiles/mobi.dir/debug.c.o"
+  "CMakeFiles/mobi.dir/debug.c.o.d"
+  "CMakeFiles/mobi.dir/encryption.c.o"
+  "CMakeFiles/mobi.dir/encryption.c.o.d"
+  "CMakeFiles/mobi.dir/index.c.o"
+  "CMakeFiles/mobi.dir/index.c.o.d"
+  "CMakeFiles/mobi.dir/memory.c.o"
+  "CMakeFiles/mobi.dir/memory.c.o.d"
+  "CMakeFiles/mobi.dir/meta.c.o"
+  "CMakeFiles/mobi.dir/meta.c.o.d"
+  "CMakeFiles/mobi.dir/opf.c.o"
+  "CMakeFiles/mobi.dir/opf.c.o.d"
+  "CMakeFiles/mobi.dir/parse_rawml.c.o"
+  "CMakeFiles/mobi.dir/parse_rawml.c.o.d"
+  "CMakeFiles/mobi.dir/randombytes.c.o"
+  "CMakeFiles/mobi.dir/randombytes.c.o.d"
+  "CMakeFiles/mobi.dir/read.c.o"
+  "CMakeFiles/mobi.dir/read.c.o.d"
+  "CMakeFiles/mobi.dir/sha1.c.o"
+  "CMakeFiles/mobi.dir/sha1.c.o.d"
+  "CMakeFiles/mobi.dir/structure.c.o"
+  "CMakeFiles/mobi.dir/structure.c.o.d"
+  "CMakeFiles/mobi.dir/util.c.o"
+  "CMakeFiles/mobi.dir/util.c.o.d"
+  "CMakeFiles/mobi.dir/write.c.o"
+  "CMakeFiles/mobi.dir/write.c.o.d"
+  "CMakeFiles/mobi.dir/xmlwriter.c.o"
+  "CMakeFiles/mobi.dir/xmlwriter.c.o.d"
+  "libmobi.pdb"
+  "libmobi.so"
+  "libmobi.so.0"
+  "libmobi.so.0.11"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/mobi.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
