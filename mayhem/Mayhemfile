@@ -6,4 +6,4 @@ target: mobidrm
 
 # List of commands used to test the target
 cmds:
-    - cmd: ../tools/mobidrm -d @@
+    - cmd: /tools/mobidrm -d
