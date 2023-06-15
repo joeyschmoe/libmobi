@@ -2,8 +2,8 @@
 project: libmobi
 
 # Target name (should be unique within the project)
-target: mobidrm
+target: libmobi
 
 # List of commands used to test the target
 cmds:
-    - cmd: /tools/mobidrm -d
+    - cmd: /mobidrm -d @@
